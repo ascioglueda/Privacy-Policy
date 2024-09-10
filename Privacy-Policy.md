@@ -18,7 +18,7 @@ The app itself does not place cookies on users' devices. However, third-party ad
 
 Children’s Privacy
 
-The "Hello Kids" app is intended for children under the age of 13. We do not knowingly collect or store personal information from children under 13. If you become aware that your child has provided personal information, please contact us. We will promptly delete such information from our systems.
+The "Hello Kids" app is designed to be suitable for users of all ages. We do not knowingly collect or store personal information from children under the age of 13. If you become aware that any user, including children under 13, has provided personal information, please contact us. We will promptly take necessary actions to delete such information from our systems.
 
 Security
 
