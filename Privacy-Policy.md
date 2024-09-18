@@ -34,4 +34,5 @@ If you have any questions or suggestions about our Privacy Policy, please feel f
 
 Contact Information:
 
-Email: edaascioglu395@gmail.com
+Email: eda.software.info@gmail.com
+
