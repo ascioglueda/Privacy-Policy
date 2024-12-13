@@ -35,4 +35,4 @@ If you have any questions or suggestions about our Privacy Policy, please feel f
 Contact Information:
 
 Email: eda.software.info@gmail.com
-
+Google Play: https://play.google.com/store/apps/details?id=com.hellokids.learningapp
